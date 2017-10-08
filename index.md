@@ -1,9 +1,9 @@
-# 欢迎来到鑫翃瑞电子科技有限公司 XRR-ETC
+# 欢迎来到鑫翝瑞电子科技有限公司 XRR-ETC
 Nanjing Xin Rui Rui Electronic Technology Co., Ltd
 
 ## 公司简介 Company Profile
 
-南京鑫翃瑞电子科技有限公司自1998年成立以来，主要从事先进半导体设备与电子设备的技术研发和配件销售。在南京，上海，杭州，苏州，无锡，常州，镇江，扬州的主要半导体电子设备大客户所在地区，常年住有销售和技术工程师。同时，我们专业的技术团队也提供远程优质，高效的技术支持和客户服务。
+南京鑫翝瑞电子科技有限公司自1998年成立以来，主要从事先进半导体设备与电子设备的技术研发和配件销售。在南京，上海，杭州，苏州，无锡，常州，镇江，扬州的主要半导体电子设备大客户所在地区，常年住有销售和技术工程师。同时，我们专业的技术团队也提供远程优质，高效的技术支持和客户服务。
 
 The XRR-ETC since its inception in 1998, mainly engaged in advanced semiconductor equipment and electronic equipment, technology research and development and sales of accessories. In Nanjing, Shanghai, Hangzhou, Suzhou, Wuxi, Changzhou, Zhenjiang, Yangzhou, the main semiconductor electronic equipment where the major customers, perennial live sales and technical engineers. At the same time, our professional technical team also provides remote high quality, efficient technical support and customer service.
 
