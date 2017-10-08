@@ -16,10 +16,10 @@ Our aim and goal is to serve customers, and customers together to grow together!
 ## 主要产品 Main Products
 
 ### XR-B 烘箱
-[Image](https://github.com/xinhongrui/homepage/blob/master/1.jpg?raw=true)
+![Image](https://github.com/xinhongrui/homepage/blob/master/1.jpg?raw=true)
 
 ### ST100-SJ 先进超声基片清洗台
-[Link](url) and ![Image](src)
+![Image](./2.jpg)
 
 ### VM100-TK 大尺寸兆声基片清洗台
 [Link](url) and ![Image](src)
