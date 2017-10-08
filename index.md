@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# 欢迎来到鑫翃瑞电子科技有限公司 XRR-ETC
+Nanjing Xin Rui Rui Electronic Technology Co., Ltd
 
-You can use the [editor on GitHub](https://github.com/xinhongrui/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 公司简介 Company Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+南京鑫翃瑞电子科技有限公司自1998年成立以来，主要从事先进半导体设备与电子设备的技术研发和配件销售。在南京，上海，杭州，苏州，无锡，常州，镇江，扬州的主要半导体电子设备大客户所在地区，常年住有销售和技术工程师。同时，我们专业的技术团队也提供远程优质，高效的技术支持和客户服务。
 
-### Markdown
+The XRR-ETC since its inception in 1998, mainly engaged in advanced semiconductor equipment and electronic equipment, technology research and development and sales of accessories. In Nanjing, Shanghai, Hangzhou, Suzhou, Wuxi, Changzhou, Zhenjiang, Yangzhou, the main semiconductor electronic equipment where the major customers, perennial live sales and technical engineers. At the same time, our professional technical team also provides remote high quality, efficient technical support and customer service.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 企业愿景 Corporate Vision
 
-```markdown
-Syntax highlighted code block
+我们的宗旨和目标是竭诚服务客户，与客户一起共同成长! 
 
-# Header 1
-## Header 2
-### Header 3
+Our aim and goal is to serve customers, and customers together to grow together!
 
-- Bulleted
-- List
+## 主要产品 Main Products
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+### XR-B 烘箱
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### ST100-SJ 先进超声基片清洗台
+[Link](url) and ![Image](src)
 
-### Jekyll Themes
+### VM100-TK 大尺寸兆声基片清洗台
+[Link](url) and ![Image](src)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinhongrui/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 联系方式 Contact Information
+电话: 025-84541962
+TEL： 025-84541962
+地址：南京市中山东路110号
+Address: 110 Zhongshan Road, Nanjing, China
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
